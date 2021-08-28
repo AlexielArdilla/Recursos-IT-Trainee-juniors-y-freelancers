@@ -2,6 +2,13 @@
 
 ## Sitio web destinado a orientar a los newbies en tecnologías y programación, también en ofertas de empleo.
 
+#### Imagen del sitio
+![imagen de la página](recursos1.jpg)
+
+### Link: https://recursosparanewbiesit.online/
+
+--------------------------------------------------------------------------------------------------------
+
 Template Name: BizLand
 Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
 Author: BootstrapMade.com
