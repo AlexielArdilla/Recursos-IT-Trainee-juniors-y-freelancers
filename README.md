@@ -5,7 +5,7 @@
 #### Imagen del sitio
 ![imagen de la página](recursos1.jpg)
 
-### Link: https://recursosparanewbiesit.online/
+### Link: https://alexielardilla.github.io/Recursos-IT-Trainee-juniors-y-freelancers/
 
 --------------------------------------------------------------------------------------------------------
 
